@@ -1,5 +1,5 @@
 ## Overview 🌟
-This script automates filling out *IAU* surveys on the Estibana platform using Puppeteer, a Node.js library for browser automation. It logs in with your credentials, navigates through the surveys, fills out ratings, and submits them.
+This script automates filling out *IAU* surveys on the Estibana platform. It logs in with your credentials, navigates through the surveys, fills out ratings, and submits them.
 
 ---
 
