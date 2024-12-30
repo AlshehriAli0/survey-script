@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 
 // here you input your own credentials
 const id = "your_id_here"
-const password = "password"
+const password = "your_password_here"
 
 // initialize
 const browser = await puppeteer.launch({ headless: false }); 
