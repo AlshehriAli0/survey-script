@@ -124,4 +124,4 @@ try{
 
 }
 
-console.log("All survays complete")
+console.log("All surveys complete")
