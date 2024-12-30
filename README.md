@@ -1,9 +1,9 @@
-## Overview
+## Overview 🌟
 This script automates filling out *IAU* surveys on the Estibana platform using Puppeteer, a Node.js library for browser automation. It logs in with your credentials, navigates through the surveys, fills out ratings, and submits them.
 
 ---
 
-## Prerequisites
+## Prerequisites 🛠️
 
 1. **Node.js Installed**: Install Node.js from [https://nodejs.org/](https://nodejs.org/).
 2. **Puppeteer Installed**:
@@ -15,7 +15,7 @@ This script automates filling out *IAU* surveys on the Estibana platform using P
 
 ---
 
-## Setup
+## Setup ⚙️
 
 1. **Clone or Download** this script.
 2. Open the script in a text editor.
@@ -29,25 +29,25 @@ This script automates filling out *IAU* surveys on the Estibana platform using P
 
 ---
 
-## Running the Script
+## Running the Script ▶️
 
 1. Open a terminal in the script's directory.
 2. Run the script using: `node script.js`
 
 ---
 
-## What the Script Does
+## What the Script Does  🔍
 
-1. Logs into the Estibana platform using the provided credentials.
+1. Logs into the Estibana platform using the provided credentials. 🔑
 2. Checks for available subject surveys and automates their completion:
-- Rates items using a value of "3" (modifiable in the script).
-- Fills in feedback text fields with "Nothing" (modifiable in the script).
-3. Submits surveys for teachers, following a similar process.
-4. Logs "All surveys complete" when all tasks are done.
+- Rates items using a value of "3" (modifiable in the script). ⭐⭐⭐
+- Fills in feedback text fields with "Nothing" (modifiable in the script). 📝
+3. Submits surveys for teachers, following a similar process. 👩‍🏫👨‍🏫
+4. Logs "All surveys complete" when all tasks are done. ✅
 
 ---
 
-## Customization
+## Customization ✨
 
 - **Modify Ratings**: Change the value `"3"` in the script to your preferred rating.
 - **Customize Feedback**: Replace `"Nothing"` in the script with your desired feedback.
@@ -55,7 +55,7 @@ This script automates filling out *IAU* surveys on the Estibana platform using P
 ---
 
 
-## Disclaimer
+## Disclaimer ⚠️
 
 Use this script at your own risk. Ensure compliance with the platform's terms of service and applicable laws.
 
